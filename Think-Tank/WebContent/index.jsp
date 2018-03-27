@@ -9,5 +9,6 @@
 </head>
 <body>
 	git 연습중1
+	연습에 연습을 거듭하여
 </body>
 </html>
